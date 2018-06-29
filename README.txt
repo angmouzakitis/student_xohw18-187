@@ -9,10 +9,12 @@ Supervisor name: Miltos D. Grammatikakis
 Supervisor e-mail: mdgramma@cs.teicrete.gr 
 Participant(s): Voula Piperaki, Angelos Mouzakitis
 Category: student
-Email: dreams@cs.teicrete.gr
+Email: {vpiperaki, angelos.mouzakitis}@cs.teicrete.gr
 
 Board used: Zedboard Z7020 FPGA
 Vivado Version: 2014.4.1
+
+Link to YouTube Video(s): https://youtu.be/aJAlX4r38ww
 
 Brief description of project:
  We develop, implement and validate hierarchical GNU/Linux security primitives
@@ -163,4 +165,5 @@ cd /root/fw_root/TESTBENCHES/05_SYSTEMADMIN_SETUP
 # see the README.txt
 
 
-Link to YouTube Video(s): https://youtu.be/rYdyZacwYRw
+
+
