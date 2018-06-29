@@ -1,0 +1,15 @@
+/*
+ * Created by Antonis Papagrigoriou
+ *
+ * Validated by M.D Grammatikakis, V.Piperaki
+ *
+ * TEI of Crete
+ *
+ * 2017 - 2018 
+ */
+
+The IP combines a Zynq 7000 Processing System (ZedBoard) with a Butterfly NoC and Analog's HDMI components. The vivado project is located at the './vivado_butterfly_noc_4port_active_fw.zip' file.
+
+For reference the Analog template can be found at 'https://github.com/analogdevicesinc/hdl', branch 'hdl_2015_r1'.  
+
+The synthesis procedure requires Vivado 2014.4.1.

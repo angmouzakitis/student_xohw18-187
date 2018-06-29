@@ -12,7 +12,7 @@ Category: student
 Email: dreams@cs.teicrete.gr
 
 Board used: Zedboard Z7020 FPGA
-Vivado Version: 2014.4
+Vivado Version: 2014.4.1
 
 Brief description of project:
  We develop, implement and validate hierarchical GNU/Linux security primitives

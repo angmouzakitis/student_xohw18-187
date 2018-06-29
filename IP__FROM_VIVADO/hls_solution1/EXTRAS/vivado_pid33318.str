@@ -1,0 +1,152 @@
+/*
+
+Vivado v2014.4.1 (64-bit)
+SW Build 1149489 on Thu Feb 19 16:00:12 MST 2015
+Process ID: 33318
+
+Current time: 	3/28/16 3:51:08 AM
+Time zone: 	Eastern European Time (Europe/Athens)
+
+OS: CentOS Linux release 7.2.1511 (Core) 
+Version: 3.10.0-229.14.1.el7.x86_64
+Architecture: amd64
+Available processors (cores): 4
+
+DISPLAY: :50
+Screen size: 1366x768
+Screen resolution (DPI): 96
+Available screens: 1
+
+Java version: 	1.8.0_05 64-bit
+Java home: 	/home/Xilinx/Vivado/2014.4/tps/lnx64/jre
+
+User name: 	apapa
+User directory: /home/apapa/workspace/vivado/four_port_router
+User country: 	US
+User language: 	en
+User locale: 	en_US
+Vivado preferences path: /home/apapa/.Xilinx/Vivado/2014.4/vivado.ini
+Vivado layouts directory: /home/apapa/.Xilinx/Vivado/2014.4/layouts/application
+
+GUI allocated memory:	209 MB
+GUI max memory:		3,052 MB
+Engine allocated memory: 4,829 MB
+
+*/
+
+// TclEventType: START_GUI
+// HColorUtils.generateUniqueColorPalette (num colors: 55) elapsed time: 0.7s
+// Tcl Message: start_gui 
+// [GUI Memory]: 33 MB (+31615kb) [00:00:05]
+// [Engine Memory]: 4,810 MB (+4891752kb) [00:00:05]
+selectList(PAResourceEtoH.GettingStartedView_RECENT_PROJECTS, "/home/apapa/workspace/vivado/hardware/butterfly_noc/butterfly_noc.xpr", 0); // s:v (JViewport:JComponent, ch:JFrame)
+// cm:N (ch:JFrame):  Open Project : addNotify
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_COMPLETED
+// TclEventType: RUN_CURRENT
+// TclEventType: IP_LOCK_CHANGE
+// HMemoryUtils.trashcanNow. Engine heap size: 4,889 MB. GUI used memory: 20 MB. Current time: 3/28/16 3:51:10 AM
+// TclEventType: IP_LOCK_CHANGE
+// [Engine Memory]: 4,912 MB (+107016kb) [00:00:10]
+// TclEventType: IP_LOCK_CHANGE
+// TclEventType: PROJECT_NEW
+// [GUI Memory]: 38 MB (+5960kb) [00:00:11]
+// [Engine Memory]: 4,939 MB (+28524kb) [00:00:11]
+// [Engine Memory]: 4,960 MB (+22528kb) [00:00:12]
+// [Engine Memory]: 4,998 MB (+39374kb) [00:00:13]
+// [GUI Memory]: 39 MB (+325kb) [00:00:14]
+// [GUI Memory]: 40 MB (+1056kb) [00:00:14]
+// [GUI Memory]: 42 MB (+2083kb) [00:00:16]
+// [Engine Memory]: 5,016 MB (+18948kb) [00:00:16]
+// [GUI Memory]: 48 MB (+6846kb) [00:00:16]
+// [GUI Memory]: 62 MB (+14754kb) [00:00:16]
+// Tcl Message: open_project /home/apapa/workspace/vivado/hardware/butterfly_noc/butterfly_noc.xpr 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1700] Loaded user IP repository '/home/apapa/workspace/vivado/four_port_router/solution1/impl'. INFO: [IP_Flow 19-2313] Loaded Vivado IP repository '/home/Xilinx/Vivado/2014.4/data/ip'. 
+// [Engine Memory]: 5,019 MB (+3678kb) [00:00:19]
+// [GUI Memory]: 67 MB (+4664kb) [00:00:19]
+// [GUI Memory]: 67 MB (+855kb) [00:00:19]
+// [GUI Memory]: 68 MB (+857kb) [00:00:19]
+// [GUI Memory]: 69 MB (+855kb) [00:00:19]
+// [GUI Memory]: 70 MB (+908kb) [00:00:19]
+// [GUI Memory]: 71 MB (+856kb) [00:00:19]
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// [GUI Memory]: 72 MB (+860kb) [00:00:19]
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// [GUI Memory]: 72 MB (+857kb) [00:00:19]
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// [GUI Memory]: 73 MB (+908kb) [00:00:19]
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// [GUI Memory]: 74 MB (+857kb) [00:00:19]
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// [GUI Memory]: 75 MB (+857kb) [00:00:19]
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// [GUI Memory]: 76 MB (+908kb) [00:00:19]
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// [GUI Memory]: 77 MB (+857kb) [00:00:19]
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// [GUI Memory]: 77 MB (+857kb) [00:00:19]
+// [GUI Memory]: 78 MB (+908kb) [00:00:19]
+// [GUI Memory]: 79 MB (+855kb) [00:00:19]
+// [GUI Memory]: 80 MB (+855kb) [00:00:19]
+// [GUI Memory]: 80 MB (+549kb) [00:00:19]
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// Project name: butterfly_noc; location: /home/apapa/workspace/vivado/hardware/butterfly_noc; part: xc7z020clg484-1
+// Tcl Message: open_project: Time (s): cpu = 00:00:33 ; elapsed = 00:00:15 . Memory (MB): peak = 5904.293 ; gain = 211.930 ; free physical = 1401 ; free virtual = 60970 
+// Elapsed time: 15 seconds
+dismissDialog("Open Project"); // cm:N (ch:JFrame)
+// TclEventType: DG_UPDATE_GRAPH
+// TclEventType: DG_ANALYSIS_MSG_RESET
+// TclEventType: DG_UPDATE_GRAPH
+// TclEventType: DG_ANALYSIS_MSG_RESET
+// TclEventType: DG_UPDATE_GRAPH
+// Elapsed time: 20 seconds
+selectTree(PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, "[, IP Integrator, Open Block Design]", 7, false); // w:Y (v:I, ch:JFrame)
+// Run Command: PAResourceCommand.PACommandNames_OPEN_BLOCK_DESIGN
+// cm:N (ch:JFrame):  Open Block Design : addNotify
+// TclEventType: LOAD_FEATURE
+// TclEventType: RSB_PROPERTY_CHANGE
+// Tcl Message: open_bd_design {/home/apapa/workspace/vivado/hardware/butterfly_noc/butterfly_noc.srcs/sources_1/bd/design_1/design_1.bd} 
+// TclEventType: RSB_PROPERTY_CHANGE
+// Tcl Message: Adding component instance block -- xilinx.com:ip:proc_sys_reset:5.0 - proc_sys_reset_0 Adding component instance block -- teicrete:dreams_tei:four_port_sw:1.8 - four_port_sw_0 Adding component instance block -- xilinx.com:ip:axi_crossbar:2.1 - xbar 
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: RSB_PROPERTY_CHANGE
+// Tcl Message: Adding component instance block -- xilinx.com:ip:axi_protocol_converter:2.1 - auto_pc Adding component instance block -- xilinx.com:ip:axi_crossbar:2.1 - xbar 
+// [Engine Memory]: 5,031 MB (+12582kb) [00:00:48]
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: RSB_PROPERTY_CHANGE
+// [Engine Memory]: 5,038 MB (+7340kb) [00:00:49]
+// TclEventType: RSB_PROPERTY_CHANGE
+// Tcl Message: Adding component instance block -- xilinx.com:ip:axi_protocol_converter:2.1 - auto_pc Adding component instance block -- xilinx.com:ip:axi_protocol_converter:2.1 - auto_pc Adding component instance block -- xilinx.com:ip:axi_protocol_converter:2.1 - auto_pc Adding component instance block -- xilinx.com:ip:axi_crossbar:2.1 - xbar 
+// TclEventType: FILE_SET_CHANGE
+// [Engine Memory]: 5,055 MB (+16867kb) [00:00:51]
+// TclEventType: RSB_PROPERTY_CHANGE
+// Tcl Message: Adding component instance block -- xilinx.com:ip:axi_crossbar:2.1 - xbar 
+// HMemoryUtils.trashcanNow. Engine heap size: 5,088 MB. GUI used memory: 35 MB. Current time: 3/28/16 3:51:55 AM
+// TclEventType: FILE_SET_CHANGE
+// [Engine Memory]: 5,091 MB (+37883kb) [00:00:53]
+// TclEventType: RSB_PROPERTY_CHANGE
+// Tcl Message: Adding component instance block -- xilinx.com:ip:axi_crossbar:2.1 - xbar 
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: RSB_PROPERTY_CHANGE
+// Tcl Message: Adding component instance block -- xilinx.com:ip:axi_crossbar:2.1 - xbar 
+// TclEventType: FILE_SET_CHANGE
+// [Engine Memory]: 5,100 MB (+9437kb) [00:00:58]
+// TclEventType: RSB_PROPERTY_CHANGE
+// TclEventType: RSB_OPEN_DIAGRAM
+// [Engine Memory]: 5,103 MB (+3145kb) [00:00:58]
+// [Engine Memory]: 5,106 MB (+3145kb) [00:00:58]
+// TclEventType: RSB_OPEN_DIAGRAM
+// [Engine Memory]: 5,108 MB (+2097kb) [00:00:58]
+// [Engine Memory]: 5,137 MB (+30412kb) [00:00:59]
+// [Engine Memory]: 5,139 MB (+2179kb) [00:00:59]
+// [Engine Memory]: 5,140 MB (+1048kb) [00:00:59]
+// [Engine Memory]: 5,142 MB (+2097kb) [00:00:59]
+// TclEventType: RSB_CONNECTION_CHANGE
+// Tcl Message: Successfully read diagram <design_1> from BD file </home/apapa/workspace/vivado/hardware/butterfly_noc/butterfly_noc.srcs/sources_1/bd/design_1/design_1.bd> 
+// [Engine Memory]: 5,146 MB (+3948kb) [00:01:00]
+// [Engine Memory]: 5,147 MB (+1048kb) [00:01:00]
+// [Engine Memory]: 5,155 MB (+8380kb) [00:01:01]
+// TclEventType: RSB_CONNECTION_CHANGE

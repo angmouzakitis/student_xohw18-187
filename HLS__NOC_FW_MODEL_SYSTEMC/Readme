@@ -1,13 +1,21 @@
-Buterfly NoC Firewall sources for the HLS Design (no optimazation)
--------------------------------------------------------------------
-These are the systemC sources for the Buterfly NoC Firewall and it's testbench.
+/*
+ * Created by Antonis Papagrigoriou
+ *
+ * Validated by M.D Grammatikakis, V.Piperaki
+ *
+ * TEI of Crete
+ *
+ * 2017 - 2018 
+ */
 
-The synthesis systemC source files are the four_port_sw.ccp, four_port_sw.h, and packet.h. The rest source files are used for the simulation.
+Butterfly NoC Firewall sources for the HLS Design (no optimization)
+-------------------------------------------------------------------
+These are the systemC sources for the Butterfly NoC Firewall and it's testbench.
+
+The synthesis systemC source files are the four_port_sw.ccp, four_port_sw.h, and packet.h. The remain source files are used for the simulation.
 
 The top module for the synthesis is the four_port_sw class.
 
 All required pragmas & defines are in source.
 
 We used Vivado HLS 2014.4.1 edition.
-
-More about the functionality of the Buterfly NoC Firewall can be read in the Linux Driver Example Readme File.
